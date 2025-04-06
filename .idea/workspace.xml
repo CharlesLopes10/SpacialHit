@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4f6427-3f45-47aa-bbfe-3f7166ed3cce" name="Changes" comment="Add set EntityFactory.py">
-      <change afterPath="$PROJECT_DIR$/code/DBProxy.py" afterDir="false" />
+    <list default="true" id="ee4f6427-3f45-47aa-bbfe-3f7166ed3cce" name="Changes" comment="Add set database info's">
+      <change afterPath="$PROJECT_DIR$/code/EntityMediator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Player.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743921329104</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add set database info's">
+      <option name="closed" value="true" />
+      <created>1743921741859</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743921741859</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add set database info's">
+      <option name="closed" value="true" />
+      <created>1743921840323</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743921840323</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,7 +192,8 @@
     <MESSAGE value="ADD &quot;Entity code&quot;" />
     <MESSAGE value="ADD &quot;Enemy code&quot;" />
     <MESSAGE value="Add set EntityFactory.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add set EntityFactory.py" />
+    <MESSAGE value="Add set database info's" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add set database info's" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
