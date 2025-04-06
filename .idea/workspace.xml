@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee4f6427-3f45-47aa-bbfe-3f7166ed3cce" name="Changes" comment="INSERT = CONST AND BACKGROUND SONG AND IMAGE">
-      <change afterPath="$PROJECT_DIR$/assets/Menu.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Background.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/Entity.py" afterDir="false" />
+    <list default="true" id="ee4f6427-3f45-47aa-bbfe-3f7166ed3cce" name="Changes" comment="ADD &quot;Enemy code&quot;">
+      <change afterPath="$PROJECT_DIR$/code/EnemyShot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/EntityFactory.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/Const.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/Const.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.main.executor": "Run",
+    "Python.main.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/HP/PycharmProjects/SpacialHit",
@@ -124,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743918177473</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ADD &quot;Entity code&quot;">
+      <option name="closed" value="true" />
+      <created>1743919307253</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743919307253</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ADD &quot;Enemy code&quot;">
+      <option name="closed" value="true" />
+      <created>1743920437077</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743920437077</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,7 +166,9 @@
     <MESSAGE value="Setting Game" />
     <MESSAGE value="Setting Menu" />
     <MESSAGE value="INSERT = CONST AND BACKGROUND SONG AND IMAGE" />
-    <option name="LAST_COMMIT_MESSAGE" value="INSERT = CONST AND BACKGROUND SONG AND IMAGE" />
+    <MESSAGE value="ADD &quot;Entity code&quot;" />
+    <MESSAGE value="ADD &quot;Enemy code&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD &quot;Enemy code&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
