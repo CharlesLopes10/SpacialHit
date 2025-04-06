@@ -1,8 +1,6 @@
 # C
-from xml.dom.minidom import Entity
 
 import pygame
-from pygame.examples.grid import WINDOW_HEIGHT
 
 C_ORANGE = (255, 128, 0)
 C_YELLOW = (255, 255, 128)
